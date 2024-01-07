@@ -35,4 +35,4 @@ function App() {
 export default App
 
 //what should i build or should i learn
-//the thing is I have a lot
+//the thing is I havent finished the cource whivh i bought like a 4 months ago
