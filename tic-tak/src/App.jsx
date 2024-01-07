@@ -36,3 +36,4 @@ export default App
 
 //what should i build or should i learn
 //the thing is I havent finished the cource whivh i bought like a 4 months ago
+//i can go ahead and finish this cource which is going to take forver or i can not do that and go straight into biulding with no prior knowlege
