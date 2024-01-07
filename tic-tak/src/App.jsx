@@ -35,4 +35,4 @@ function App() {
 export default App
 
 //what should i build or should i learn
-//t
+//the thing is I have a lot
