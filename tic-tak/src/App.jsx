@@ -41,5 +41,7 @@ export default App
 //can i apply to startup right now in this moment i most probably can i just offer them to work for them for free then we will see how it goes on from there, there is a lekly chance that they will accept the offer and allow me to wor
 //the cource if only the main main thigs are done can be done realistically in two weeks
 
-//    !!!  fuck everytihing and start doing to 
+//    !!!  fuck everytihing and finish the cource finish the cource and appply to a buch of startups and get to work
+
+
 
