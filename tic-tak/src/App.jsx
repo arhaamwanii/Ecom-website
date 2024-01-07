@@ -39,4 +39,7 @@ export default App
 //i can go ahead and finish this cource which is going to take forver or i can not do that and go straight into biulding with no prior knowlege
 //the thing is inorder to apply for a start where i am going to offer them, that i am going to work for free for you it wont take that much learning it is just isnt going to take much i will learn there and in that environment i wil be forced to do shit also here to a great level it a also an personal attempt to run away form failure because it is true that this is going to be hard -- i have this inate tendecy to optimize to level where it becomes over optimization there is some truth to it that this ia  great thing in some cases but when you trying to so things fast this is not the way to about it and right now in my case particularly i need to do shit fast 
 //can i apply to startup right now in this moment i most probably can i just offer them to work for them for free then we will see how it goes on from there, there is a lekly chance that they will accept the offer and allow me to wor
+//the cource if only the main main thigs are done can be done realistically in two weeks
+
+//    !!!  fuck everytihing and start doing to 
 
