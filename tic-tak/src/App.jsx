@@ -42,6 +42,7 @@ export default App
 //the cource if only the main main thigs are done can be done realistically in two weeks
 
 //    !!!  fuck everytihing and finish the cource finish the cource and appply to a buch of startups and get to work
+//yeah anoter comment
 
 
 
